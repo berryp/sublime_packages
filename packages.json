@@ -1,0 +1,18 @@
+{
+    "schema_version": "1.2",
+    "packages": [
+        {
+            "name": "SublimeQSL",
+            "description": "A QSL Package",
+            "author": "Berry Phillips",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "0.1",
+                        "url": "https://github.com/berryp/SublimeQSL/zipball/master"
+                    }
+                ]
+            }
+        }
+    ]
+}
